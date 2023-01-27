@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="IOLibraryTest-20230107144924" tests="15" time="3.385">
+	<testcase classname="IOLibraryTest" name="test_parse_int" time="0.288"/>
+	<testcase classname="IOLibraryTest" name="test_parse_uint" time="0.145"/>
+	<testcase classname="IOLibraryTest" name="test_print_char" time="0.131"/>
+	<testcase classname="IOLibraryTest" name="test_print_int" time="0.220"/>
+	<testcase classname="IOLibraryTest" name="test_print_string" time="0.204"/>
+	<testcase classname="IOLibraryTest" name="test_print_uint" time="0.578"/>
+	<testcase classname="IOLibraryTest" name="test_read_char" time="0.393"/>
+	<testcase classname="IOLibraryTest" name="test_read_word" time="0.049"/>
+	<testcase classname="IOLibraryTest" name="test_read_word_length" time="0.389"/>
+	<testcase classname="IOLibraryTest" name="test_read_word_too_long" time="0.093"/>
+	<testcase classname="IOLibraryTest" name="test_string_copy" time="0.172"/>
+	<testcase classname="IOLibraryTest" name="test_string_copy_too_long" time="0.150"/>
+	<testcase classname="IOLibraryTest" name="test_string_equals" time="0.202"/>
+	<testcase classname="IOLibraryTest" name="test_string_length" time="0.177"/>
+	<testcase classname="IOLibraryTest" name="test_string_not_equals" time="0.194"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
