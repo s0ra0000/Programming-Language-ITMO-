@@ -51,5 +51,5 @@ void fizzbuzz(int a){
     if(a%15==0) return printf("fizzbuzz");
     else if(a%3 ==0) return printf("fizz");
     else if(a%5 == 0) return printf("buzz");
-    else return printf("no");}
+    else return 0}
 }
