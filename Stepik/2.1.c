@@ -22,11 +22,10 @@ size_t count_gt(uint32_t* array, size_t size) {
 ///*** 2.1.2 ***///
 size_t count_zeroes( const void* data, size_t sz ) {
     size_t count = 0;
-    if( sz == 0 ) return 0;
-    for(size_t i=0; i <= sz; i++){
+    for(size_t i=0; i < sz; ++i){
         const char bytes = data+i;
         if(bytes == 0){
-            count++;
+            ++count;
         }
     }
     return count;
